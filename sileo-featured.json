@@ -1,0 +1,43 @@
+{
+
+    "class":"FeaturedBannersView",
+    "itemSize":"{263, 148}",
+    "itemCornerRadius":10,              
+    "banners":[
+
+				{
+					"url": "https://apt.iwba.cn/icon/sileo/1.png",
+					"title": "微信美化增强",
+					"package": "cn.iwba.sutuplus",
+					"repoName": "DEB推送源™"
+				},
+				{
+					"url": "https://apt.iwba.cn/icon/sileo/2.png",
+					"title": "ShortLook 炫酷通知",
+					"package": "cn.iwba.shortlook",
+					"repoName": "DEB推送源™"
+				},
+				{
+					"url": "https://apt.iwba.cn/icon/sileo/3.png",
+					"title": "ShortLook 优雅通知",
+					"package": "cn.iwba.bazzix",
+					"repoName": "DEB推送源™"
+				},
+				{
+					"url": "https://apt.iwba.cn/icon/sileo/4.png",
+					"title": "AlcoveTheme 精美主题",
+					"package": "cn.iwba.pikabulite",
+					"repoName": "DEB推送源™"
+				},
+				{
+					"url": "https://apt.iwba.cn/icon/sileo/5.png",
+					"title": "BetterSettings 优雅设置",
+					"package": "cn.iwba.bettersettings",
+					"repoName": "DEB推送源™"
+				}
+    ]
+  
+  
+}
+
+
